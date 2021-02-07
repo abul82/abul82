@@ -1,10 +1,10 @@
-### Hi there, I'm Jacob - aka @momrider69 👋
+### Hi there, I'm Abrar - aka @abul82 👋
 
 <div align="center">
 	<img src="https://media.tenor.com/images/a481f90b32a045b61d0c1de6bf893a5b/tenor.gif">
 </div>
 
-## Cyclist, Developer, and Entrepreneur
+## Foodie, Developer, and Entrepreneur
 
 - 🔭 Co-Founder of @nambadoctor, @circle, @revenostore and more
 - 🌱 Currently working on a Mongo<->.Net<->Grpc<->Kotlin Tech stack 
